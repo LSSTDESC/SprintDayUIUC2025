@@ -4,7 +4,7 @@ Repository to host Sprints at the DESC Collaboration Meeting at UIUC on July 25 
 
 Check the <a href="https://github.com/LSSTDESC/SprintDayUIUC2025/issues">issue page</a> to see the list of sprints.
 
-Logistics of the Sprint Day can be found on the confluence page <a href="https://confluence.slac.stanford.edu/spaces/LSSTDESC/pages/596680437/July+2025+DESC+Meeting+Sprint+Day">here</a>. Please sign up for any physical and zoom rooms there. 
+Logistics of the Sprint Day can be found on the confluence page <a href="https://confluence.slac.stanford.edu/spaces/LSSTDESC/pages/596680437/July+2025+DESC+Meeting+Sprint+Day">here</a>. Please sign up for any physical rooms there. We will be using breakout rooms of the plenary zoom. The breakout room number of your sprint is the same as your github issue number. 
 
 ## How to propose a sprint
 
